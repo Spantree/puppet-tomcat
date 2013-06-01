@@ -1,5 +1,5 @@
 name    'jlust-tomcat'
-version ''
+version '1.0.0'
 source ''
 author 'jlust'
 license ''
